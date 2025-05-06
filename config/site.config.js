@@ -15,7 +15,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: process.env.NEXT_PUBLIC_TITLE || "OnePortal",
+  title: process.env.NEXT_PUBLIC_TITLE || "Raina的OnePortal",
 
   // The folder that you are to share publicly with OnePortal. Use '/' if you want to share your root folder.
   baseDirectory: process.env.BASE_DIRECTORY || '/',
@@ -56,7 +56,7 @@ module.exports = {
 
   // [OPTIONAL] Leave it empty if you want to remove this email address from the nav bar.
   // Format: mailto:i@example.com
-  email: process.env.NEXT_PUBLIC_EMAIL || '',
+  email: process.env.NEXT_PUBLIC_EMAIL || 'jiangyu.rain@outlook.com',
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
